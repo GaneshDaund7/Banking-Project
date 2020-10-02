@@ -82,7 +82,7 @@ public class Login extends javax.swing.JFrame {
             hiii.setText(name1);
             else
             {
-            hiii.setText("Hii "+name1);
+            hiii.setText("Hii "+name1+"Sir/Mam");
             }
         }
         catch(Exception e)
@@ -187,7 +187,7 @@ public class Login extends javax.swing.JFrame {
         time.setText("Time");
 
         hiii.setFont(new java.awt.Font("Lucida Bright", 1, 14)); // NOI18N
-        hiii.setText("Hii");
+        hiii.setText("Hii to you");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
